@@ -35,11 +35,11 @@ $config['base_url'] = '';
 | variable so that it is blank.
 |
 */
-$config['index_page'] = 'index.php';
+$config['index_page'] = '';
 
 /*
 |--------------------------------------------------------------------------
-| URI PROTOCOL
+| URI PROTOCOLS
 |--------------------------------------------------------------------------
 |
 | This item determines which server global should be used to retrieve the
